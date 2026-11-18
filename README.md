@@ -1,23 +1,20 @@
 [![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=%20Hi%20There%20👋&fontSize=50)](https://github.com/shellatomic)
 
 <div class="headline" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Fullstack+Developer;DevOps+Engineer;Solution+Architect;Penetration+Tester;Problem+Solver;Freelancer;Open-Source+Contributor" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Technical+Project+Manager;Software+Engineer;Dynamics+365+BC+Specialist;AWS+Solutions+Architect;Agile%2FScrum+Delivery" alt="Headline" />
 </div>
 
-<!--
-**shellatomic/shellatomic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About me
 
-Here are some ideas to get you started:
+I'm **Ahmed Abudayeh**, Project Manager of Software Engineering at Abdullah Ali Al Amer & Brothers Trading Co. in Saudi Arabia. I have 5+ years of experience delivering enterprise software, ERP customizations and cloud applications from requirements to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 I lead end-to-end delivery of custom software and **Microsoft Dynamics 365 Business Central** projects in Agile/Scrum teams
+- 🛠️ Hands-on with **TypeScript, Node.js, React, AL**, SQL Server and MongoDB
+- ☁️ **AWS Certified Solutions Architect – Associate** and **Docker Certified Associate**
+- 🏅 Accredited Software Engineer, Saudi Council of Engineers
+- 📍 Based in Al Khobar, Saudi Arabia · open to Technical Project Manager and Senior Software Engineer roles
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ahmedabudayeh)
+
 ---
 <div class="headline" align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&width=600&height=50&lines=Languages+And+Tools:" alt="Headline" />
@@ -31,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&width=600&height=50&lines=Statistics:" alt="Headline" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shellatomic&show_icons=true&theme=codeSTACKr&hide=contribs&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shellatomic&show_icons=true&theme=codeSTACKr&hide=contribs&count_private=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shellatomic&" alt="shellatomic" /></p>
 
 ---
